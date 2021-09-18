@@ -1,12 +1,12 @@
 ---
-title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
-buttonText: 'Hire Me!'
+title: 'Hey! My name is'
+name: 'Hemanth Ramireddy'
+subtitle: 'Here is more about me!'
+buttonText: 'Get in Touch!'
 ---
 
-I'm an India based developer with a goal-driven creative mindset and passion for learning and innovating.
+I am a curious soul by nature and a Data Analyst by profession.
 
-Currently working as a Software Engineering Associate at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer at [Pepper Content](https://www.peppercontent.io).
+I am currently working as a Data Analyst at [Uber](https://www.uber.com/) combining a passion for analytical thinking with a pursuit to build a career in it.
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/) or create amateur #PureCSS [Codepen](https://codepen.io/chandrikadeb7). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+Outside work, I spend a lot of time reading newsletters on [Stoop](https://stoopinbox.com/) or finding cool, intuitive and beautiful visualizations across the internet to share on my instagram page: [1chart_daily](https://www.instagram.com/1chart_daily/).
