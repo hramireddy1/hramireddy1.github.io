@@ -1,19 +1,21 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'ups-shot.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
+  - Google Sheets
+  - Python
+  - SQL
+  - Data Visualization
+  - Data Pipeline Creation
+  - Automation
 ---
 
-Hello! Interestingly, I have been a student of Bio-Maths in my high school and got introduced to programming in my freshman year at [BIT Mesra](https://www.bitmesra.ac.in/). Since then, I started developing Web and ML projects, and completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hey there! My journey with programming began when I was introduced to Python in high school. The idea of one programming language having the ability to perform many functions in different domains from robotics to web development was fascinating to me. During my bachelor's at [VNR Vignana Jyothi Institute of Engineering and Technology](http://www.vnrvjiet.ac.in/), I had the opportunity to turn my passion and curiosity into a degree in Electronics and Communication Engineering (2015-2019) with a [8.43]() GPA. 
 
-Today, I'm currently working as a scrum developer responsible for several microservices code development and testing in Amdocs Technology Billing and RTB project.
+After graduation, I was fortunate enough to turn my curiosity into work for a leading consultant company in the R&D department primarily working with Robotics and IoT. This has helped me realize a love for analytical thinking and data-driven decision making.
 
-I have also been awarded as Winner in Design Thinking Hackathon and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
+Today, I'm currently working as a Business Analyst at Uber responsible for delivering actionable insights from the vast amounts of data generated. This could be in the form of a dashboard, report, deep dive tool etc.
 
-Here is a list of the technologies that I work with in Amdocs!
+I am also a Google Cloud certified [Professional Data Engineer](https://www.credential.net/6882d573-c9c8-446f-9f6b-6c72dc721b13). A business analyst must be able to work at the intersection of technology and business and that sounds exciting for me as I believe in my technical skills and I intend to further boost my business acumen.
+
+Here is a list of the technologies that I work with at Uber!

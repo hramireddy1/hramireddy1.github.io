@@ -6,6 +6,7 @@ range: 'January - April 2019'
 url: 'http://www.tcs.com/'
 ---
 
-- Project on developing a fully working dynamic eCommerce website using PHP and MySQL.
-- Prepared a complete report about the specifications and working of the software.
-- View [PROJECT REPORT](https://drive.google.com/file/d/1Cn6gxJ1UYpcdz97FivBBp-SsXiVbgg5-/view?usp=sharing) and [CERTIFICATE](https://drive.google.com/file/d/1R1in-IgfDj9qx9btWEeA_9Ob3db-54_c/view?usp=sharing)
+- Simulation of a robot that has the ability to navigate autonomously on Gazebo, a Robotics
+simulation software.
+- Worked on the perception module of a robotic application. Designed the robot on Gazebo to be tested on the simulation before a real track on the lab.
+- Developed an obstacle avoidance algorithm using Python for the navigation module.

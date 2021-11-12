@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: 'Hemanth Ramireddy | Data Analyst',
+  siteTitle: 'Hemanth Ramireddy | Business Analyst',
   siteDescription:
-    'Hemanth Ramireddy is a Data Analyst at Uber, who loves learning new things and spreading the knowledge.',
-  siteKeywords: 'Hemanth Ramireddy, Hemanth, Ramireddy, hramireddy1, Data Analyst',
+    'Hemanth Ramireddy is a Business Analyst at Uber, who loves learning new things and spreading the knowledge.',
+  siteKeywords: 'Hemanth Ramireddy, Hemanth, Ramireddy, hramireddy1, Analyst, Business Analyst',
   siteUrl: 'https://hramireddy1.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -25,6 +25,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/hramireddy1',
     },
+    {
+      name: 'Tableau',
+      url: 'https://public.tableau.com/app/profile/hemanth.ramireddy'
+    }
   ],
 
   navLinks: [
@@ -39,10 +43,6 @@ module.exports = {
     {
       name: 'Projects',
       url: '/#projects',
-    },
-    {
-      name: 'Certifications',
-      url: '/#certifications',
     },
     {
       name: 'Contact',

@@ -12,6 +12,6 @@ tech:
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
+Dashboard to provide an interface to Google’s Mobility dataset in the wake of the COVID-19 Pandemic.
+Built a web app using streamlit framework to compare the changes in the mobility of the population and deployed on Heroku. Purpose of the report is to see the changes that have occured with the policies being implemented to combat COVID-19. Movement trends across multiple geographies upto the county/city level in multiple sectors such as workplaces, groceries and pharmacies etc
 
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
