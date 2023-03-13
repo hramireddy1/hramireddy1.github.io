@@ -1,11 +1,13 @@
 ---
 date: '2021-08-09'
-title: 'Business Analyst'
+title: 'Data Analyst'
 company: 'Uber'
-range: 'August 2021- Present'
+range: 'August 2021- Jul 2022'
 url: 'https://www.uber.com/'
 ---
 
-- Analyze and query large amounts of data and create intuitive dashboards for the stakeholders to make data-driven decisions to drive the company's growth.
-- Update key day level metrics through the use of Google Sheets Automation in order to have upto date on the realtime Dashboards.
-- Create robust data pipelines in order to generate insights faster and decrease the turn around time for the stakeholders to make optimized business decisions.
+- Extracted important business metrics for the operations team by developing Ad-hoc queries leveraging multiple tables with SQL and built automated dashboards using Python and Google Sheets/Data Studio.
+- Implemented an automated data pipeline from Presto to Google Sheets/BigQuery and developed an internal reporting tool in the form of a Chatbot on Google Chat effectively saving 25% of person hours in a week.
+- Built an internal API using Python and Selenium to fast track the metrics calculated from the Quality team to the Operations team that reduced the TAT by 40%.
+- Developed a Chatbot framework using Google Apps Script and Google Chat API and enabled other teams to quickly build a functional Chatbot as a reporting tool in a few clicks.
+- Created an automated multi-granular scorecard for the Community Operations team that decreased feedback TAT by 50%.
