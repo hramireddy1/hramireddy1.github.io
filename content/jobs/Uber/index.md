@@ -2,7 +2,7 @@
 date: '2021-08-09'
 title: 'Data Analyst'
 company: 'Uber'
-range: 'August 2021- Jul 2022'
+range: 'August 2020- Jul 2022'
 url: 'https://www.uber.com/'
 ---
 

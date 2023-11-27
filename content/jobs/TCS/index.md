@@ -2,7 +2,7 @@
 date: '2019-06-24'
 title: 'Systems Engineer'
 company: 'TCS'
-range: 'June 2019 - August 2021'
+range: 'June 2019 - August 2020'
 url: 'https://www.tcs.com/'
 ---
 
